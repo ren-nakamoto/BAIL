@@ -1,0 +1,13 @@
+{
+  "owner_id": "7641683374",
+  "owner_username": "@zeronetwork_bot",
+  "owner_name": "Sovereign Nakamoto Network",
+  "telegram_token": "7734204315:AAGqlMxv9lDXjVoSnMNuL_lthhdt6ZXq1U0",
+  "ai_models": {
+    "sonar-reasoning-pro": "https://api.siputzx.my.id/api/ai/perplexity?text=",
+    "deepseek": "https://api.siputzx.my.id/api/ai/deepseek-llm-67b-chat?content=",
+    "hermes": "https://api.siputzx.my.id/api/ai/nous-hermes?content=",
+    "bard": "https://api.siputzx.my.id/api/ai/bard?query="
+  },
+  "prompt_control": "Only the owner can control the prompt. Free for anyone to use, but prompt control is restricted to the owner."
+}
